@@ -8,11 +8,11 @@
 # :sparkles: Real-Time Reconstruction Visualization<br>
 - Campus Schoolmotto Scenes<br>
 
-<img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px"> <img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="414px">
+<img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px">
 
 - Campus Bench Scenes<br>
 
-<img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px"> <img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="414px">
+<img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px">
 
 # :white_check_mark: OrthSynergy Descriptors Visualization<br>
 - Campus Bench Scenes<br>
