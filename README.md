@@ -5,7 +5,7 @@
 - Release code of GLT-SLAM！
 - Release RGB-D dataset of BJTU！
 
-# :sparkles: 3DGS Models Visualization<br>
+# :sparkles: 3DGS Models Visualization for GLT-SLAM<br>
 - Campus Schoolmotto Scenes<br>
 
 <img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px">
@@ -14,11 +14,11 @@
 
 <img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px">
 
-# :white_check_mark: Real-Time Reconstructing Visualization<br>
-- Campus Bench Scenes<br>
+# :white_check_mark: Real-Time Reconstructing Visualization for GLT-SLAM<br>
+- Replica office0 Scenes<br>
 
-<img src="media/KITTI_00.gif" width="360px"> <img src="media/KITTI_13.gif" width="360px"><br>
-- MulRan Riverside02 and Kaist03 scene<br>
+<img src="media/KITTI_00.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
+- Replica room0 Scenes<br>
 <img src="media/MulRan_Riverside02.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
 
 # :rocket: SLAM System Integration<br>
