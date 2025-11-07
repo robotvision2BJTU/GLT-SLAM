@@ -27,7 +27,7 @@
 To evaluate the Localization and Mapping performance, you can **download** our BJTU dataset.
 
 - BJTU Dataset.
-<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
+<br> Waiting for permission, will be released soon.
 ```
 ./
 ├── 
