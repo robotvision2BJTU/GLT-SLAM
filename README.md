@@ -17,9 +17,11 @@
 # :white_check_mark: Real-Time Reconstructing Visualization for GLT-SLAM<br>
 - Replica office0 Scenes<br>
 
-<img src="media/KITTI_00.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
-- Replica room0 Scenes<br>
-<img src="media/MulRan_Riverside02.gif" width="360px"> <img src="media/MulRan_Kaist03.gif" width="360px"><br>
+<img src="assets/Replica_office0.gif" width="360px">
+
+- Replica room1 Scenes<br>
+
+<img src="assets/Replica_room1.gif" width="360px">
 
 # :rocket: SLAM System Integration<br>
 - Different testing environments and sensor types<br>
