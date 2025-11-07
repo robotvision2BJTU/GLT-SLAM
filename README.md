@@ -23,16 +23,10 @@
 
 <img src="assets/Replica_room1.gif" width="820px">
 
-# :rocket: SLAM System Integration<br>
-- Different testing environments and sensor types<br>
-
-<img src="media/mapping_example1.gif" width="360px"> <img src="media/mapping_example2.gif" width="360px"><br>
-<img src="media/mapping_example3.gif" width="360px"> <img src="media/mapping_example4.gif" width="360px"><br>
-
 # :hammer_and_wrench: Datasets Download and Preparation
-To evaluate the LCD performance, you will need to **download** the required datasets.
+To evaluate the Localization and Mapping performance, you can **download** our BJTU dataset.
 
-- SemanticKITTI Dataset- [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos).
+- BJTU Dataset- [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos).
 <br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
