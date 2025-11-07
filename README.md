@@ -8,11 +8,11 @@
 # :sparkles: 3DGS Models Visualization for GLT-SLAM<br>
 - Campus Schoolmotto Scene<br>
 
-<img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px">
+  <img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px">
 
 - Campus Bench Scene<br>
 
-<img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px">
+  <img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px">
 
 # :white_check_mark: Real-Time Reconstructing Visualization for GLT-SLAM<br>
 - Replica office0 Scene<br>
