@@ -5,8 +5,12 @@
 - Release code of GLT-SLAM！
 - Release RGB-D dataset of BJTU！
 
-# :sparkles: 3D Gaussian Model Visualization<br>
+# :sparkles: Real-Time Reconstruction Visualization<br>
 - Campus Schoolmotto Scenes<br>
+
+<img src="media/loop_mapping.gif" width="400px"> <img src="media/loop_mapping2.gif" width="414px">
+
+- Campus Bench Scenes<br>
 
 <img src="media/loop_mapping.gif" width="400px"> <img src="media/loop_mapping2.gif" width="414px">
 
