@@ -26,7 +26,7 @@
 # :hammer_and_wrench: Datasets Download and Preparation
 To evaluate the Localization and Mapping performance, you can **download** our BJTU dataset.
 
-- BJTU Dataset- [Baidu Drive](https://pan.baidu.com/s/1LL2LItLEQpOt4HLWodTpWQ?pwd=qaos)(access code: qaos).
+- BJTU Dataset.
 <br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
 ```
 ./
@@ -34,74 +34,30 @@ To evaluate the Localization and Mapping performance, you can **download** our B
 ├── ...
 └── data_path/
     ├──sequences
-        ├── 00/          
-        │   ├── velodyne/	
-        |   |	├── 000000.bin
-        |   |	├── 000001.bin
+        ├── balloon/          
+        │   ├── depth/	
+        |   |	├── depth000000.png
+        |   |	├── depth000001.png
         |   |	└── ...
-        │   └── labels/ 
-        |       ├── 000000.label
-        |       ├── 000001.label
+        │   └── rgb/ 
+        |       ├── frame000000.png
+        |       ├── frame000001.png
         |       └── ...
-        ├── 02/ 
-        ├── 05/ 
-        │   ├── velodyne/	
-        |    	├── 000000.bin
-        |    	├── 000001.bin
-        |    	└── ...
-        ├── 06/
+        ├── belltower/ 
+        ├── Bench/ 
+        │   ├── depth/	
+        |   | 	├── 000000.bin
+        |   | 	├── 000001.bin
+        |   | 	└── ...
+        |   └── rgb/
+        |       ├── frame000000.png
+        |       ├── frame000001.png
+        |       └── ...
+        ├── schoolmotto/
         ├── ...
 
 ```
-- MulRan Dataset- [download](https://sites.google.com/view/mulran-pr/home).
-<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. Sejong01 sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/17Lo-fgDgkeLxDTVdY-Sn7pj0xoeCL9nE/view?usp=sharing).
-```
-./
-├── 
-├── ...
-└── data_path/
-    ├──mulran
-        ├── Sejong01/      
-        │   	└── lidar/
-	│		├── 000000.bin          
-        |               ├── 000001.bin
-	│		└── ...
-        ├── Riverside02/
-	|   	└── lidar/
-	|		├── 000000.bin          
-	|		├── 000001.bin
-	|		└── ...
-        ├── ...
-```
-- Freiburg Campus Dataset - [download](https://drive.google.com/file/d/1eJFcMEEcNQynoNqeYoyBIZi0I4Gs1mH6/view?usp=sharing).
-<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder.
-```
-./
-├── 
-├── ...
-└── data_path/
-    ├──Freiburg
-        └── lidar/   	
-            	├── 000000.bin
-                ├── 000001.bin
-            	└── ...
-```
-- UrbanLoco Dataset - [download](https://github.com/weisongwen/UrbanLoco).
-<br> We have provided the groundtruth Pose of this dataset in Groundtruth_pose folder. CALombardStreet sequence can also be downloaded from [Google Drive](https://drive.google.com/file/d/1-av6k8BvpDnchmYWyNnlD4foK5D2vCEe/view?usp=sharing).
-```
-./
-├── 
-├── ...
-└── data_path/
-    ├──UrbanLoco
-        └── CALombardStreet/      
-           	└── lidar/
-                       ├── 000000.bin          
-                       ├── 000001.bin
-                       └── ...
-```
 
-The red trajectory indicates the route where loop closures have been detected.
 ## Acknowledgments
 We thanks for the opensource codebases, [M2DP](https://github.com/LiHeUA/M2DP), [Scan Context](https://github.com/asdfghjkl623/scancontext/tree/master/matlab
 ), [NDD](https://github.com/zhouruihao1001/NDD) and [FreSCo](https://github.com/soytony/FreSCo).
