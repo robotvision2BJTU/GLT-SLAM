@@ -6,20 +6,20 @@
 - Release RGB-D dataset of BJTU！
 
 # :sparkles: 3DGS Models Visualization for GLT-SLAM<br>
-- Campus Schoolmotto Scenes<br>
+- Campus Schoolmotto Scene<br>
 
 <img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px">
 
-- Campus Bench Scenes<br>
+- Campus Bench Scene<br>
 
 <img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px">
 
 # :white_check_mark: Real-Time Reconstructing Visualization for GLT-SLAM<br>
-- Replica office0 Scenes<br>
+- Replica office0 Scene<br>
 
 <img src="assets/Replica_office0.gif" width="820px">
 
-- Replica room1 Scenes<br>
+- Replica room1 Scene<br>
 
 <img src="assets/Replica_room1.gif" width="820px">
 
