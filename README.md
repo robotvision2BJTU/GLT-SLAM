@@ -5,7 +5,7 @@
 - Release code of GLT-SLAM！
 - Release RGB-D dataset of BJTU！
 
-# :sparkles: Real-Time Reconstruction Visualization<br>
+# :sparkles: 3DGS Models Visualization<br>
 - Campus Schoolmotto Scenes<br>
 
 <img src="assets/schoolmotto_3dgs 00_00_00-00_00_30.gif" width="400px">
@@ -14,7 +14,7 @@
 
 <img src="assets/Bench_3dgs 00_00_00-00_00_30.gif" width="400px">
 
-# :white_check_mark: OrthSynergy Descriptors Visualization<br>
+# :white_check_mark: Real-Time Reconstructing Visualization<br>
 - Campus Bench Scenes<br>
 
 <img src="media/KITTI_00.gif" width="360px"> <img src="media/KITTI_13.gif" width="360px"><br>
