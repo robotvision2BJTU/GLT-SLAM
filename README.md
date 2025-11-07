@@ -46,8 +46,8 @@ To evaluate the Localization and Mapping performance, you can **download** our B
         ├── belltower/ 
         ├── Bench/ 
         │   ├── depth/	
-        |   | 	├── 000000.bin
-        |   | 	├── 000001.bin
+        |   | 	├── depth000000.png
+        |   | 	├── depth000001.png
         |   | 	└── ...
         |   └── rgb/
         |       ├── frame000000.png
@@ -59,5 +59,5 @@ To evaluate the Localization and Mapping performance, you can **download** our B
 ```
 
 ## Acknowledgments
-We thanks for the opensource codebases, [M2DP](https://github.com/LiHeUA/M2DP), [Scan Context](https://github.com/asdfghjkl623/scancontext/tree/master/matlab
-), [NDD](https://github.com/zhouruihao1001/NDD) and [FreSCo](https://github.com/soytony/FreSCo).
+We thanks for the opensource codebases, [Photo-SLAM](https://github.com/HuajianUP/Photo-SLAM), [CartGS](https://github.com/DapengFeng/cartgs
+), [SplaTAM](https://github.com/spla-tam/SplaTAM) and [Noisy-Replica](https://github.com/Xiaohao-Xu/SLAM-under-Perturbation).
